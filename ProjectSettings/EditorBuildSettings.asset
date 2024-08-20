@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/AwalMulai.unity
+    guid: a985e7ccabf07c944815bbeb00cca6ed
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Loading.unity
+    guid: 83214bacd5df5a84db5d54465602289c
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/MainMenu.unity
+    guid: 352caaf92c1282049a83235254483b40
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Auth/Login.unity
+    guid: 7b049fdf20ed67349b211b855e2df5e7
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Auth/Register.unity
+    guid: afd5e0990f61be04fbe51bff711d5242
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Loadingkeluar.unity
+    guid: e91f4a52f86eda14387df1df4990244a
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Pertarungan.unity
+    guid: fa8beece00d2e6649aee52c04e8b54ce
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/ModeCerita.unity
+    guid: 28af793b78adba849869dabef7058072
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Tentang.unity
+    guid: af4dedfa406bcbc4cb1e6fbb5be8bd4c
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/PilihKarakter.unity
+    guid: 70e0bd5b742252f4fa85ed66cd5e2308
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Arena/Arena.unity
+    guid: 79e7b5e9dd9359745bacbe608bc18f0d
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Pengaturan.unity
+    guid: d2322e176a608014bacfc6ebfcce8b0c
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Almanak.unity
+    guid: 650a68eae7b0e7d46bab9c40b6c3d37d
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Abimanyu.unity
+    guid: 871e6ddbcdddfe949a8dc50876b95b5a
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Anoman.unity
+    guid: 95ec8a65df1caa448b41fc299b36dc32
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Arjuna.unity
+    guid: 726ce0945580f9b4ab305193ace2b075
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Barata.unity
+    guid: bc936627319f7d345873de8d208ffe0c
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Bima.unity
+    guid: c77bee0d81234d34c81a93ae15d81d26
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Citrasena.unity
+    guid: 53cd037dbae3c5f4d995da27078e26a4
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Drupadi.unity
+    guid: 46b0b138ef167524b943c3c3707e3f85
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Dursasana.unity
+    guid: 27f22f29a6101ad4b917497731766609
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Duryudana.unity
+    guid: 30dc5df2ed051934782047ee20d9057b
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Kresna.unity
+    guid: 53e77ed47c845214cb25ff07e26dc7ce
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Nakula.unity
+    guid: 92132df3b0c0c584f8a35c38de6f48de
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Sadewa.unity
+    guid: de5297aa1e686a449b7e831fe312efe7
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Salya.unity
+    guid: c1b840ebc504a044ca1a20a204a328da
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Sangkuni.unity
+    guid: 42994af4bfcdc004b8fc8d9c9626610d
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Almanak/Yudistira.unity
+    guid: e3e0f8addf0a7394d9c5665a4ab10fd5
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Modecerita/BabDua.unity
+    guid: 903a7fd15bd327e4da6ad850cc0ec68a
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Modecerita/BabDuaa.unity
+    guid: 3f168dfb02ae7fe468798910b5f7e4fe
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Modecerita/BabEmpat.unity
+    guid: 72db94f50cf22594ea1cec2456fc7cb3
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Modecerita/BabEmpata.unity
+    guid: 1f040cf819326cf44842a12db9eaa51a
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Modecerita/BabEnam.unity
+    guid: 7f7d8752fcfedd348a32fe47a4fd4924
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Modecerita/BabEnama.unity
+    guid: bca3444977bed9e4fa10e67bc1e1b96d
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Modecerita/BabLima.unity
+    guid: c0218ddada9c80c4387759b36248b91f
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Modecerita/BabLimaa.unity
+    guid: 3f326fec880b85247a37ac4b534c94e3
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Modecerita/BabSatu.unity
+    guid: 6133c8ec5b742034aab6eb4a501b0f7c
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Modecerita/BabSatua.unity
+    guid: cb934858d73562b4e92f566fae235cf9
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Modecerita/BabTiga.unity
+    guid: 4a6c7a11dfad1294c9a16471658f84d4
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Modecerita/BabTigaa.unity
+    guid: 496cc6d5ff72b284d956bee0fff340bd
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Modecerita/BabTujuh.unity
+    guid: a87b0633952f0b04f81d9f07f8fed44c
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Modecerita/BabTujuha.unity
+    guid: d7974cb105724fe41b1b8f8241404f8f
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/Modecerita/BabTujuhb.unity
+    guid: 71168cbc5d2cbb74e9fe9b12e02e8270
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungModeCerita/TarungBabDua.unity
+    guid: 371cb0964ee984a41b3a631e395b3102
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungModeCerita/TarungBabEmpat.unity
+    guid: 56c1368f171d8da4db3fbe27ea0c97a1
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungModeCerita/TarungBabEnam.unity
+    guid: d67b95ff2f3917541a7a5c4051c1129a
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungModeCerita/TarungBabLima.unity
+    guid: 1dbbac29c2936d14cbfcecce017e381c
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungModeCerita/TarungBabSatu.unity
+    guid: b0e337077c983694a97bbeecf7a4b876
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungModeCerita/TarungBabTiga.unity
+    guid: c7624ceade784174e8f001660ffef00b
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungModeCerita/TarungBabTujuh.unity
+    guid: 92d6ae385f189ff458690600d8197aaa
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Bebas/SceneAbimanyu.unity
+    guid: b3cfdb434f1c4324288a5df5b11a53aa
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Bebas/SceneAnoman.unity
+    guid: f07ededd30a19954f8667caf36d69a68
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Bebas/SceneArjuna.unity
+    guid: a949bae9943733249b1c921e528c9073
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Bebas/SceneBarata.unity
+    guid: d9588a722efe9ab4982418d936106715
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Bebas/SceneBima.unity
+    guid: ffc28eb127f0cd246b69590c8216e2e3
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Bebas/SceneCitrasena.unity
+    guid: c42466dab5e989e40a252ba90bcad103
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Bebas/SceneDrupadi.unity
+    guid: b6c19aae9b6704c4eabbf042e0818d08
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Bebas/SceneDusasana.unity
+    guid: 53dc04dba6b8dca4b94ecbe052713a2b
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Bebas/SceneDuyudana.unity
+    guid: c753f109b1977d845bd46431a84072c7
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Bebas/SceneKresna.unity
+    guid: 1c38fe96986510e4ebfca4469c9fa0f2
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Bebas/SceneNakula.unity
+    guid: 016617e34bf258e43bc1e55f48cc8c87
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Bebas/SceneSadewa.unity
+    guid: 69167c499a535844f8428d9c37ff0e9a
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Bebas/SceneSalya.unity
+    guid: 14b11f242736f6e40bedb07b57511afc
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Bebas/SceneSangkuni.unity
+    guid: 267f6a5353be56143aa8b336f427bf82
+  - enabled: 1
+    path: Assets/Plugins/Android/Scenes/TarungBebas/Bebas/SceneYudistira.unity
+    guid: b05724e4b2a291843b416dacb17c6dca
+  m_configObjects: {}
